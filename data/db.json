@@ -1,0 +1,49 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "karan",
+      "age": "24",
+      "place": "surat",
+      "batch": "fw13",
+      "profession": "full stack developer",
+      "id": 2
+    },
+    {
+      "name": "",
+      "age": "",
+      "place": "",
+      "batch": "",
+      "profession": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "age": "",
+      "place": "",
+      "batch": "",
+      "profession": "",
+      "id": 4
+    },
+    {
+      "name": "Karan Singh",
+      "age": "24",
+      "place": "surat",
+      "batch": "fwfe",
+      "profession": "gaeg",
+      "id": 5
+    },
+    {
+      "name": "karan singh",
+      "age": "25",
+      "place": "surat",
+      "batch": "fw13b",
+      "profession": "d;m;ld",
+      "id": 6
+    }
+  ]
+}

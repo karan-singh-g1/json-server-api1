@@ -1,0 +1,17 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "json data to deploy",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch data/db.json --port 3004"
+  },
+  "keywords": [
+    "json-deploy"
+  ],
+  "author": "karan singh",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
